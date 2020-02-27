@@ -1,0 +1,20 @@
+{
+  "name": "gkk-hosting",
+  "version": "1.0.0",
+  "description": "GKK Firebase hosting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "firebase deploy --only hosting"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krisell/gkk-hosting.git"
+  },
+  "author": "Martin Krisell (martin.krisell@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Krisell/gkk-hosting/issues"
+  },
+  "homepage": "https://github.com/Krisell/gkk-hosting#readme"
+}
